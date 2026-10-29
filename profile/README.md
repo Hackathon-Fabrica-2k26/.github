@@ -83,18 +83,20 @@ O **Marsupi** conduz a professora do primeiro contato ao uso autônomo da IA no 
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jonatasperaza"><img src="https://github.com/jonatasperaza.png" width="72" alt=""><br><sub><b>Jonatas Silva Peraza</b></sub></a></td>
-    <td align="center"><a href="https://github.com/IgorMMichels"><img src="https://github.com/IgorMMichels.png" width="72" alt=""><br><sub><b>Igor Michels</b></sub></a></td>
-    <td align="center"><a href="https://github.com/MatheusZenere"><img src="https://github.com/MatheusZenere.png" width="72" alt=""><br><sub><b>Matheus Vidal Zenere</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Mateus2411"><img src="https://github.com/Mateus2411.png" width="72" alt=""><br><sub><b>Mateus Henrique da Silva</b></sub></a></td>
-    <td align="center"><a href="https://github.com/mklamaral"><img src="https://github.com/mklamaral.png" width="72" alt=""><br><sub><b>Mikael Amaral</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/jonatasperaza"><img src="https://github.com/jonatasperaza.png" width="72" alt=""><br><sub><b>Jonatas Silva Peraza</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/IgorMMichels"><img src="https://github.com/IgorMMichels.png" width="72" alt=""><br><sub><b>Igor Michels</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/MatheusZenere"><img src="https://github.com/MatheusZenere.png" width="72" alt=""><br><sub><b>Matheus Vidal Zenere</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/Mateus2411"><img src="https://github.com/Mateus2411.png" width="72" alt=""><br><sub><b>Mateus Henrique da Silva</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/mklamaral"><img src="https://github.com/mklamaral.png" width="72" alt=""><br><sub><b>Mikael Amaral</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/Pedrojoseroza"><img src="https://github.com/Pedrojoseroza.png" width="72" alt=""><br><sub><b>Pedro José Oliveira da Roza</b></sub></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Pedrojoseroza"><img src="https://github.com/Pedrojoseroza.png" width="72" alt=""><br><sub><b>Pedro José Oliveira da Roza</b></sub></a></td>
-    <td align="center"><a href="https://github.com/HigorAmaral"><img src="https://github.com/HigorAmaral.png" width="72" alt=""><br><sub><b>Higor do Amaral Fritz</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Davi-Prussek"><img src="https://github.com/Davi-Prussek.png" width="72" alt=""><br><sub><b>Davi M. Prussek</b></sub></a></td>
-    <td align="center"><a href="https://github.com/kimnarciso"><img src="https://github.com/kimnarciso.png" width="72" alt=""><br><sub><b>Kimberlly Cristhinne Narciso</b></sub></a></td>
-    <td align="center"><a href="https://github.com/joaosantos86"><img src="https://github.com/joaosantos86.png" width="72" alt=""><br><sub><b>João Pedro</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/HigorAmaral"><img src="https://github.com/HigorAmaral.png" width="72" alt=""><br><sub><b>Higor do Amaral Fritz</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/Davi-Prussek"><img src="https://github.com/Davi-Prussek.png" width="72" alt=""><br><sub><b>Davi M. Prussek</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/kimnarciso"><img src="https://github.com/kimnarciso.png" width="72" alt=""><br><sub><b>Kimberlly Cristhinne Narciso</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/joaosantos86"><img src="https://github.com/joaosantos86.png" width="72" alt=""><br><sub><b>João Pedro</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/SaraKozoski"><img src="https://github.com/SaraKozoski.png" width="72" alt=""><br><sub><b>Sara Kozoski</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://github.com/danielhinsching"><img src="https://github.com/danielhinsching.png" width="72" alt=""><br><sub><b>Daniel dos Santos Hinsching</b></sub></a></td>
   </tr>
 </table>
 
